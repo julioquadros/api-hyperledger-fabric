@@ -1,0 +1,22 @@
+{
+    "name": "certidao_nascimento",
+    "version": "1.0.0",
+    "description": "Projeto do Trabalho de Conclusao de Curso TSPI IFSUL Passo Fundo",
+    "main": "cn_api_rest.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "fabric-ca-client": "^1.0.1",
+        "fabric-client": "^1.0.1"
+    },
+    "author": "Julio Quadros dos Santos",
+    "license": "Apache-2.0",
+    "keywords": [
+        "Hyperledger",
+        "Fabric",
+        "Birth",
+        "Certificate",
+        "Application"
+    ]
+}
